@@ -1,0 +1,17 @@
+*{
+   font-family:Sans-Serif;
+   font-size:10px;
+}
+body{
+    background-image:url("https://us.123rf.com/450wm/ladushka/ladushka1611/ladushka161100021/66352548-christmas-tree-made-of-programming-code-in-ruby-language.jpg?ver=6");
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+h1{
+    text-align:center;
+    font-size:12px;
+}
+nav{
+    
+}
